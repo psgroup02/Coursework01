@@ -14,6 +14,8 @@ This software simulates bidimensionally the density of pumas and hares in an are
 
 * Additional packages: PIL, matplotlib.
 
+&nbsp; &nbsp; &nbsp; &nbsp; *The tools mentioned above are already installed on [DICE](http://computing.help.inf.ed.ac.uk/dice-platform)*
+
 ### How to Start
 
 * **Execute the package**
