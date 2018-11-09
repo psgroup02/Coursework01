@@ -57,4 +57,4 @@ Click on the button *Start* to run the simulation. It will return a diagram colo
 
 * Timesteps: According the parameter given as an input, the timestep will be updated until the simulation ends.
 
-* Simulation Time: it will indicate in *hh:mm:ss* as the timestep will be changed.
+* Simulation Time: it will indicate the time in format *hh:mm:ss* as the timestep will be changed.
